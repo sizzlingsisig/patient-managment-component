@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Amy Elsner",
+    "patientID": "P001",
+    "lastVisit": "2023-10-25",
+    "consultations": 5,
+    "isActive": true,
+    "cards": [
+      {
+        "consultationId": "C-101",
+        "date": "2023-10-25",
+        "title": "Allergies",
+        "complaint": "Skin rash",
+        "doctor": "Smith",
+        "tag": "Review",
+        "detail": "Patient shows signs of mild skin irritation.",
+        "status": "Paid",
+        "diagnosis": "Contact dermatitis",
+        "medications": "Topical antihistamines",
+        "allergies": "None",
+        "appointment": "2023-12-10",
+        "payment": "₱1,500"
+      },
+      {
+        "consultationId": "C-101",
+        "date": "2023-10-25",
+        "title": "Allergies",
+        "complaint": "Skin rash",
+        "doctor": "Smith",
+        "tag": "Review",
+        "detail": "Patient shows signs of mild skin irritation.",
+        "status": "Paid",
+        "diagnosis": "Contact dermatitis",
+        "medications": "Topical antihistamines",
+        "allergies": "None",
+        "appointment": "2023-12-10",
+        "payment": "₱1,500"
+      },
+      {
+        "consultationId": "C-105",
+        "date": "2023-11-30",
+        "title": "Blood Pressure",
+        "complaint": "Frequent headaches",
+        "doctor": "Lopez",
+        "tag": "Ongoing",
+        "detail": "Elevated blood pressure noted.",
+        "status": "Unpaid",
+        "diagnosis": "Hypertension",
+        "medications": "Amlodipine",
+        "allergies": "Penicillin",
+        "appointment": "2024-01-20",
+        "payment": "₱2,300"
+      },
+      {
+        "consultationId": "C-106",
+        "date": "2023-12-22",
+        "title": "Checkup",
+        "complaint": "Dizziness and fatigue",
+        "doctor": "Lopez",
+        "tag": "Review",
+        "detail": "Symptoms subsiding after medication adjustment.",
+        "status": "Paid",
+        "diagnosis": "Blood pressure adjustment",
+        "medications": "Amlodipine, rest",
+        "allergies": "Penicillin",
+        "appointment": "2024-02-01",
+        "payment": "₱1,700"
+      }
+    ]
+  },
+  {
+    "name": "Onyama Limba",
+    "patientID": "P002",
+    "lastVisit": "2024-10-25",
+    "consultations": 2,
+    "isActive": false,
+    "cards": [
+      {
+        "consultationId": "C-201",
+        "date": "2024-02-05",
+        "title": "Allergies",
+        "complaint": "Hives and itching",
+        "doctor": "Chan",
+        "tag": "Alert",
+        "detail": "Severe allergic reaction to shellfish.",
+        "status": "Paid",
+        "diagnosis": "Anaphylaxis",
+        "medications": "Epinephrine auto-injector",
+        "allergies": "Shellfish",
+        "appointment": "2024-03-15",
+        "payment": "₱3,000"
+      }
+    ]
+  },
+  {
+    "name": "Ioni Bowcher",
+    "patientID": "P003",
+    "lastVisit": "2025-10-25",
+    "consultations": 7,
+    "isActive": true,
+    "cards": [
+      {
+        "consultationId": "C-301",
+        "date": "2025-07-15",
+        "title": "Cholesterol",
+        "complaint": "Routine blood test",
+        "doctor": "Hernandez",
+        "tag": "Monitor",
+        "detail": "LDL cholesterol slightly elevated.",
+        "status": "Unpaid",
+        "diagnosis": "Hyperlipidemia",
+        "medications": "Atorvastatin",
+        "allergies": "None",
+        "appointment": "2025-08-05",
+        "payment": "₱1,200"
+      },
+      {
+        "consultationId": "C-302",
+        "date": "2025-10-25",
+        "title": "Weight Check",
+        "complaint": "Annual physical",
+        "doctor": "Hernandez",
+        "tag": "Stable",
+        "detail": "Weight stable over the past year.",
+        "status": "Paid",
+        "diagnosis": "Overweight (managed)",
+        "medications": "Diet & exercise",
+        "allergies": "None",
+        "appointment": "2025-12-01",
+        "payment": "₱1,000"
+      },
+      {
+        "consultationId": "C-303",
+        "date": "2025-09-10",
+        "title": "Follow-up Labs",
+        "complaint": "Routine cholesterol check",
+        "doctor": "Hernandez",
+        "tag": "Review",
+        "detail": "Improved LDL levels noted.",
+        "status": "Paid",
+        "diagnosis": "Improved lipid profile",
+        "medications": "Continue statins",
+        "allergies": "None",
+        "appointment": "2026-01-05",
+        "payment": "₱950"
+      }
+    ]
+  },
+  {
+    "name": "Lara Montiel",
+    "patientID": "P004",
+    "lastVisit": "2024-03-18",
+    "consultations": 3,
+    "isActive": false,
+    "cards": [
+      {
+        "consultationId": "C-401",
+        "date": "2024-01-10",
+        "title": "Flu Symptoms",
+        "complaint": "Fever and chills",
+        "doctor": "Tan",
+        "tag": "Acute",
+        "detail": "Prescribed antiviral medication.",
+        "status": "Paid",
+        "diagnosis": "Influenza A",
+        "medications": "Oseltamivir",
+        "allergies": "None",
+        "appointment": "2024-01-17",
+        "payment": "₱900"
+      },
+      {
+        "consultationId": "C-402",
+        "date": "2024-03-18",
+        "title": "Follow-Up",
+        "complaint": "General fatigue",
+        "doctor": "Tan",
+        "tag": "Follow-up",
+        "detail": "Recovery progressing well.",
+        "status": "Paid",
+        "diagnosis": "Post-viral fatigue",
+        "medications": "Vitamins",
+        "allergies": "None",
+        "appointment": "2024-04-01",
+        "payment": "₱750"
+      }
+    ]
+  },
+  {
+    "name": "Marco Reyes",
+    "patientID": "P005",
+    "lastVisit": "2025-06-10",
+    "consultations": 4,
+    "isActive": true,
+    "cards": [
+      {
+        "consultationId": "C-501",
+        "date": "2025-03-01",
+        "title": "Back Pain",
+        "complaint": "Lower back pain",
+        "doctor": "Rivera",
+        "tag": "Chronic",
+        "detail": "MRI ordered for further evaluation.",
+        "status": "Unpaid",
+        "diagnosis": "Lumbar strain",
+        "medications": "NSAIDs",
+        "allergies": "Ibuprofen",
+        "appointment": "2025-03-15",
+        "payment": "₱1,800"
+      },
+      {
+        "consultationId": "C-502",
+        "date": "2025-06-10",
+        "title": "Physical Therapy",
+        "complaint": "Mobility issues",
+        "doctor": "Rivera",
+        "tag": "Rehab",
+        "detail": "Ongoing physical therapy sessions.",
+        "status": "Paid",
+        "diagnosis": "Muscle weakness",
+        "medications": "Therapy + stretching",
+        "allergies": "Ibuprofen",
+        "appointment": "2025-07-01",
+        "payment": "₱2,200"
+      },
+      {
+        "consultationId": "C-503",
+        "date": "2025-04-20",
+        "title": "Pain Follow-Up",
+        "complaint": "Back pain persists",
+        "doctor": "Rivera",
+        "tag": "Concern",
+        "detail": "Possible disc herniation suspected. MRI confirmed.",
+        "status": "Unpaid",
+        "diagnosis": "Lumbar disc herniation",
+        "medications": "Rehabilitation + Surgery consult",
+        "allergies": "Ibuprofen",
+        "appointment": "2025-05-10",
+        "payment": "₱3,100"
+      }
+    ]
+  },
+  {
+    "name": "Chloe Tanaka",
+    "patientID": "P006",
+    "lastVisit": "2024-12-05",
+    "consultations": 4,
+    "isActive": true,
+    "cards": [
+      {
+        "consultationId": "C-601",
+        "date": "2024-10-01",
+        "title": "Vision Check",
+        "complaint": "Blurry vision",
+        "doctor": "Ibarra",
+        "tag": "Routine",
+        "detail": "Patient needs corrective lenses.",
+        "status": "Paid",
+        "diagnosis": "Myopia",
+        "medications": "Eyeglasses prescribed",
+        "allergies": "None",
+        "appointment": "2024-10-15",
+        "payment": "₱1,400"
+      },
+      {
+        "consultationId": "C-602",
+        "date": "2024-12-05",
+        "title": "Eye Irritation",
+        "complaint": "Dry eyes",
+        "doctor": "Ibarra",
+        "tag": "Follow-up",
+        "detail": "Artificial tears recommended.",
+        "status": "Unpaid",
+        "diagnosis": "Dry eye syndrome",
+        "medications": "Lubricating drops",
+        "allergies": "None",
+        "appointment": "2025-01-10",
+        "payment": "₱850"
+      }
+    ]
+  }
+]
